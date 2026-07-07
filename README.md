@@ -85,11 +85,10 @@ Nest-USA chiếm tới **50.4% tổng doanh thu**, gấp hơn 3 lần category �
 
 | Hạng mục | Phát hiện | Đề xuất | Mức ưu tiên |
 |---|---|---|---|
-| Phân khúc khách hàng | 2% khách hàng (nhóm "lõi") đóng góp 12.8% doanh thu, giá trị gấp 13 lần trung bình | Xây chương trình giữ chân/loyalty riêng cho nhóm này, không giảm giá đại trà | Cao |
-| Phân khúc khách hàng | 600 khách hàng (40.9%) đã xác nhận rời bỏ thật, không phải do thiếu thời gian quan sát | Triển khai chiến dịch remarketing trong 30-60 ngày sau lần mua đầu tiên | Cao |
+| Phân khúc khách hàng | 2% khách hàng (nhóm "lõi") đóng góp 13% doanh thu| Xây chương trình giữ chân/loyalty riêng cho nhóm này| Cao |
+| Phân khúc khách hàng | 600 khách hàng (41%) đã xác nhận rời bỏ thật, không phải do thiếu thời gian quan sát | Triển khai chiến dịch remarketing trong 30-60 ngày sau lần mua đầu tiên | Cao |
 | Đo lường Marketing | ROAS và Cost-per-New-Customer biến động gần như độc lập với nhau | Theo dõi Cost-per-New-Customer song song với ROAS mỗi tháng, đặc biệt giai đoạn Sep-Nov | Cao |
-| Phân bổ ngân sách theo thời gian | Doanh thu Q4 đã mạnh (29%); Q2 yếu nhất (22%) | Dịch chuyển 1 phần ngân sách từ Q4 sang Q2 để kích cầu | Trung bình |
-| Phân bổ theo category | Nest-USA chiếm 50.4% doanh thu | Phân bổ thêm ngân sách marketing cho Apparel/Office để giảm rủi ro tập trung | Trung bình |
+| Phân bổ theo category | Nest-USA chiếm 50% doanh thu | Phân bổ thêm ngân sách marketing cho Apparel/Office để giảm rủi ro tập trung | Trung bình |
 
 ---
 
